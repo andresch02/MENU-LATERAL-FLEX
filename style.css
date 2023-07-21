@@ -1,14 +1,36 @@
 body{
     background-color: black;
-}
-.botones{
+font-family:"Roboto", serif  ;
 
 }
-a{
-    text-decoration: none;
+a{ text-decoration: none;
     color: white;
+       
 
 }
 button{
     background-color: #00acee;
+    color: white;
+ width: 100px;
+ height: 20px;
+ 
+}
+.Twitter{
+    border-radius: 50px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #00acee;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+i{
+    color: white;
+}
+
+.general{
+    padding: 100px;
+}
+li{
+    padding: 10px;
 }
